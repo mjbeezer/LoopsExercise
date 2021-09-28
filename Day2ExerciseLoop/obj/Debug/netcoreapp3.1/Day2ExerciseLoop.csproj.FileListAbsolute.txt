@@ -1,0 +1,13 @@
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\bin\Debug\netcoreapp3.1\Day2ExerciseLoop.exe
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\bin\Debug\netcoreapp3.1\Day2ExerciseLoop.deps.json
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\bin\Debug\netcoreapp3.1\Day2ExerciseLoop.runtimeconfig.json
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\bin\Debug\netcoreapp3.1\Day2ExerciseLoop.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\bin\Debug\netcoreapp3.1\Day2ExerciseLoop.dll
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\bin\Debug\netcoreapp3.1\Day2ExerciseLoop.pdb
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.dll
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.pdb
+C:\Users\TheTower\source\repos\Day2ExerciseLoop\Day2ExerciseLoop\obj\Debug\netcoreapp3.1\Day2ExerciseLoop.genruntimeconfig.cache
