@@ -6,7 +6,7 @@ namespace Day2ExerciseLoop
     {
         static void Main(string[] args)
         {
-            //Loop Exercise, display even and odd numbers back to user. Even numbers first. Odd numbers second.
+            //Exercise 1
             Console.WriteLine("Even Numbers");
             for (int i = 0; i <= 100; i++)
             {
@@ -16,7 +16,7 @@ namespace Day2ExerciseLoop
                 }
             }
             
-            //While Loop Exercise
+            //Exercise 2
             bool runProgram = true;
             
             while (runProgram)
@@ -32,6 +32,14 @@ namespace Day2ExerciseLoop
                     runProgram = false;
                 }
             }
+
+            //Exercise 3
+            int sum = 0;
+            for (int i = 0; i<=5; i++)
+            {
+                sum += i;                
+            }
+            Console.WriteLine(sum);
         }
     }
 }
